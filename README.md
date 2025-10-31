@@ -27,3 +27,14 @@ Define Functions – Each operation (add, subtract, multiply, divide, average) i
 Take User Input – The user selects the operation and provides two numbers.
 
 Display Result – The result of the chosen operation is printed neatly.
+
+
+**💡 Possible Improvements****
+
+Add error handling (e.g., divide by zero).
+
+Allow more than two numbers for averaging.
+
+Create a graphical user interface (GUI) using Tkinter or PyQt.
+
+Add colorized output using the colorama module.
