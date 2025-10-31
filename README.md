@@ -1,11 +1,27 @@
-Hi there 👋
-"I am a passionate specializing in computer vision, with expertise in key areas such as object detection, object tracking, image classification, and deep learning techniques." 
+🧮 Python Calculator
 
-"I am always enthusiastic about collaborating on exciting projects related to computer vision, object detection, image classification, and deep learning. Let's connect and explore the world of visual intelligence together! ✨🔍🖼️"
+A simple and elegant Python calculator that performs basic arithmetic operations — Addition, Subtraction, Multiplication, Division, and Average — through a clean and user-friendly interface in the terminal.
 
-Contact Me
-Feel free to reach out to me through the following channels:
+🚀 Features
 
+Add two numbers
 
-LinkedIn:  Hasen Muhammad
-Email: hasenmuhammad786@gmail.com
+Subtract one number from another
+
+Multiply two numbers
+
+Divide one number by another
+
+Find the average (mean) of two numbers
+
+User-friendly prompts and clean output
+
+🧑‍💻 How It Works
+
+The program follows 3 simple steps:
+
+Define Functions – Each operation (add, subtract, multiply, divide, average) is defined as a separate function.
+
+Take User Input – The user selects the operation and provides two numbers.
+
+Display Result – The result of the chosen operation is printed neatly.
